@@ -1,20 +1,20 @@
-<h1 align="center">Hey there! I'm Coral 👋 
+<h1 align="left">Hey there! I'm Coral 👋 
 <a href="https://github.com/coral2742">
-  <img align="left" alt="Coral's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="right" alt="Coral's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://twitter.com/coral2742">
-  <img align="left" alt="Coral's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Coral's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/coral2742">
-  <img align="left" alt="Coral's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Coral's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="www.linkedin.com/in/coral-izquierdo-muñiz">
-  <img align="left" alt="Coral's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Coral's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
    </h1>
    
    
-<h2 align="center">🚀 Software Engineering Student | Self-taught | Artist 🚀</h2>
+<h2 align="left">🚀 Software Engineering Student | Self-taught | Artist 🚀</h2>
   
   
 <img align="right" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e476b474ujxy659q1sqh5jpac7mp9ge5g8m2lifhj79&rid=giphy.gif&ct=g" width="300"/>
