@@ -1,15 +1,16 @@
 <h1 align="left">Hey there! I'm Coral 👋 
-<a href="https://github.com/coral2742">
-  <img align="right" alt="Coral's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <a>
+    <a href="https://github.com/coral2742">
+  <img align="right" alt="Coral's Github" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/github.svg" />
 </a>
 <a href="https://twitter.com/coral2742">
-  <img align="right" alt="Coral's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="right" alt="Coral's Twitter" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/gorjeo.svg" />
 </a>
 <a href="https://www.instagram.com/coral2742">
-  <img align="right" alt="Coral's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="right" alt="Coral's Instagram" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/instagram.svg" />
 </a>
 <a href="www.linkedin.com/in/coral-izquierdo-muñiz">
-  <img align="right" alt="Coral's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="right" alt="Coral's Linkdein" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/linkedin%20(1).svg" />
 </a>
    </h1>
    
