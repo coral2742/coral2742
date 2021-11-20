@@ -10,7 +10,7 @@
   <img align="right" alt="Coral's Instagram" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/coral-izquierdo-mu%C3%B1iz/">
-  <img align="right" alt="Coral's Linkdein" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/linkedin%20(1).svg" />
+  <img align="right" alt="Coral's Linkdein" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/linkedin (1).svg" />
 </a>
    </h1>
    
