@@ -27,5 +27,5 @@
   -  🎨 My favourite hobby is drawing. You can see some of my art at <a href="https://coral2742.github.io/CoriDrawing/"> <p>Cori Drawing</p> </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coral2742&layout=compact&theme=jolly)](https://github.com/coral2742/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coral2742&layout=compact&theme=jolly)
 
