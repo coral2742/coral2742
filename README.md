@@ -1,16 +1,16 @@
 <h1 align="left">Hey there! I'm Coral 👋 
   <a>
     <a href="https://github.com/coral2742">
-  <img align="right" alt="Coral's Github" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/github.svg" />
+      <img align="right" alt="Coral's Github" width="22px" height="20px" src="img/icons/github.svg" />
 </a>
 <a href="https://twitter.com/coral2742">
-  <img align="right" alt="Coral's Twitter" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/gorjeo.svg" />
+  <img align="right" alt="Coral's Twitter" width="22px" height="22px" src="img/icons/twitterx.svg" />
 </a>
-<a href="https://www.instagram.com/coral2742">
-  <img align="right" alt="Coral's Instagram" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/instagram.svg" />
+<a href="mailto:coral2742@gmail.com">
+  <img align="right" alt="Send email" width="22px" height="22px" src="img/icons/Mail.svg" />
 </a>
-<a href="https://www.linkedin.com/in/coral-izquierdo-mu%C3%B1iz/">
-  <img align="right" alt="Coral's Linkdein" width="22px" src="https://github.com/coral2742/CoriDrawing/blob/gh-pages/Imagen/linkedin (1).svg" />
+<a href="https://www.linkedin.com/in/coral-izquierdo">
+  <img align="right" alt="Coral's Linkdein" width="22px" height="22px" src="img/icons/linkedin.svg" />
 </a>
    </h1>
    
@@ -22,8 +22,8 @@
  
  
 ## About me:
-  -  💻 I'm studying Software Engineering at the University Of Oviedo 
-  -  🎯 I’m currently learning HTML, CSS and JavaScript on my own
+  -  💻 I'm studying **Software Engineering** at the University Of Oviedo 
+  -  🎯 I’m currently learning **HTML**, **CSS** and **JavaScript** on my own
   -  🎨 My favourite hobby is drawing. You can see some of my art at <a href="https://coral2742.github.io/CoriDrawing/"> <p>Cori Drawing</p> </a>
 
 
