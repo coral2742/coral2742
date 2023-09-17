@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! I'm Coral 👋 
+<h1 align="left">Hey there! I'm <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold;">Coral </span>👋
   <a>
     <a href="https://github.com/coral2742">
       <img align="right" alt="Coral's Github" width="30px" height="30px" src="img/icons/github.svg" />
@@ -22,8 +22,9 @@
  
  
 ## About me:
-  -  💻 I'm studying **Software Engineering** at the University Of Oviedo 
-  -  🎯 I’m currently learning **HTML**, **CSS** and **JavaScript** on my own
+
+  -  💻 I'm studying <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">Software Engineering</span> at the University Of Oviedo 
+  -  🎯 I’m currently learning <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">HTML</span>, <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">CSS</span> and <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">JavaScript</span> on my own
   -  🎨 My favourite hobby is drawing. You can see some of my art at <a href="https://coral2742.github.io/CoriDrawing/"> <p>Cori Drawing</p> </a>
 
 
