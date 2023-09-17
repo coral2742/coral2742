@@ -1,16 +1,16 @@
 <h1 align="left">Hey there! I'm Coral 👋 
   <a>
     <a href="https://github.com/coral2742">
-      <img align="right" alt="Coral's Github" width="22px" height="20px" src="img/icons/github.svg" />
+      <img align="right" alt="Coral's Github" width="30px" height="30px" src="img/icons/github.svg" />
 </a>
 <a href="https://twitter.com/coral2742">
-  <img align="right" alt="Coral's Twitter" width="22px" height="22px" src="img/icons/twitterx.svg" />
+  <img align="right" alt="Coral's Twitter" width="30px" height="30px" src="img/icons/twitterx.svg" />
 </a>
 <a href="mailto:coral2742@gmail.com">
-  <img align="right" alt="Send email" width="22px" height="22px" src="img/icons/Mail.svg" />
+  <img align="right" alt="Send email" width="30px" height="30px" src="img/icons/Mail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/coral-izquierdo">
-  <img align="right" alt="Coral's Linkdein" width="22px" height="22px" src="img/icons/linkedin.svg" />
+  <img align="right" alt="Coral's Linkdein" width="30px" height="30px" src="img/icons/linkedin.svg" />
 </a>
    </h1>
    
