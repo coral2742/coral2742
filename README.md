@@ -1,4 +1,4 @@
-<h1 align="left">Hey there! I'm <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold;">Coral </span>👋
+<h1 align="left">Hi! I'm <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold;">Coral </span>👋
   <a>
     <a href="https://github.com/coral2742">
       <img align="right" alt="Coral's GitHub" width="30px" height="30px" src="img/icons/github.svg" />
@@ -15,17 +15,18 @@
    </h1>
    
    
-<h2 align="left">🚀 Software Engineering Student | Self-taught | Artist 🚀</h2>
-  
+<h2 align="left">🚀 Software Engineering Student | Python | Web Development | Data Engineering | Artist 🚀</h2>
+
   
 <img align="right" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e476b474ujxy659q1sqh5jpac7mp9ge5g8m2lifhj79&rid=giphy.gif&ct=g" width="300"/>
  
  
 ## About me:
 
-  -  💻 I'm studying <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">Software Engineering</span> at the University Of Oviedo 
-  -  🎯 I’m currently learning <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">HTML</span>, <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">CSS</span> and <span style="background: linear-gradient(135deg, #7676ff, #f978df);-webkit-background-clip: text;color: transparent; font-weight: bold; text-decoration: underline;">JavaScript</span> on my own
-  -  🎨 My favourite hobby is drawing. You can see some of my art at <a href="https://coridrawing.onrender.com/"> <p>Cori Drawing</p> </a>
+  - 💻 I'm studying **Software Engineering** at the University Of Oviedo 
+  - ⚛️ I’ve worked at **CERN** collaborating with the ATLAS experiment group using LHC (Large Hadron Collider) data.
+  - 🎯 I've experience with **Data Engineering**, **Web development**, **Arduino**, **IoT**, **Augmented Reality and Virtual Reality**.
+  - 🎨 My favourite hobby is **drawing**. You can see some of my art at [Cori Drawing](https://coridrawing.onrender.com/)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coral2742&layout=compact&theme=jolly)
