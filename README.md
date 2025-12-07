@@ -24,6 +24,6 @@
 ## About me:
 
   - 💻 I'm a **Software Engineer** 
-  - ⚛️ I’m worked at **CERN** as a Software and Data Engineering for the ATLAS Experiment
+  - ⚛️ I worked at **CERN** as a Software and Data Engineering for the ATLAS Experiment
   - 🎯 I've experience with **Data Engineering**, **Web development**, **Arduino**, **IoT**, **Augmented Reality and Virtual Reality**
   - 🎨 My favourite hobby is **drawing**. You can see some of my art at [Cori Drawing](https://coridrawing.onrender.com/)
