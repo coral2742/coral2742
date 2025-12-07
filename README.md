@@ -18,16 +18,12 @@
 <h2 align="left">🚀 Software Engineer | Python | Web Development | Data Engineering | Artist 🚀</h2>
 
   
-<img align="right" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=ecf05e476b474ujxy659q1sqh5jpac7mp9ge5g8m2lifhj79&rid=giphy.gif&ct=g" width="280"/>
+<img align="right" src="./img/gifs/cat.gif" width="280"/>
  
  
 ## About me:
 
   - 💻 I'm a **Software Engineer** 
-  - ⚛️ I’m working at **CERN** as a Technical Student in Software and Data Engineering for the ATLAS Experiment
+  - ⚛️ I’m worked at **CERN** as a Software and Data Engineering for the ATLAS Experiment
   - 🎯 I've experience with **Data Engineering**, **Web development**, **Arduino**, **IoT**, **Augmented Reality and Virtual Reality**
   - 🎨 My favourite hobby is **drawing**. You can see some of my art at [Cori Drawing](https://coridrawing.onrender.com/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coral2742&layout=compact&theme=jolly)
-
